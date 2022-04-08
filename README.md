@@ -2,8 +2,13 @@
 
 ------------
 
-현재 국비과정 수료 이후 취업준비중입니다.
+현재 국비과정 수료 이후 개발자로 취업준비중입니다.
 
+
+------------
+
+2021.06 ~ 2021.08 자바(JAVA)프로그래밍 과정 수료
+2021.10 ~ 2022.04 AI활용 소프트웨어 개발 및 응용과정 수료 
 <!--
 **ryu9634/ryu9634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
