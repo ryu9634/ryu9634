@@ -1,4 +1,8 @@
-### Hi there 👋
+#### 안녕하세요 유승표입니다. 👋
+
+------------
+
+현재 국비과정 수료 이후 취업준비중입니다.
 
 <!--
 **ryu9634/ryu9634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
