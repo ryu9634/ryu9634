@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
  <br>
 </div>
-------------
 
 ### 현재까지 발걸음
 > 2021.06 ~ 2021.08 자바(JAVA)프로그래밍 과정 수료 <br>
