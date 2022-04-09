@@ -4,6 +4,8 @@
 ##### 유연하게 그 자리를 지키는 버드나무같은 사람입니다. 
 ------------
 #### 현재 국비과정 수료 이후 개발자로 취업준비중입니다.
+#STACK
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 ------------
 
 ### 현재까지 발걸음
