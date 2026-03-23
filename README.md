@@ -2,14 +2,12 @@
 
 # 버들처럼 유연한 사람 🌿
 
-##### 작은 바람은 유연하게 흘리며, 태풍이 왔을 때 부러지지 않고
-##### 그 자리를 지키는 버드나무같은 사람입니다.
+##### 흔들리더라도 꺾이지 않고 그 자리에 서 있는
+##### 버드나무가 되고 싶은 사람입니다.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jaehoonjeong.com-4CAF50?style=flat-square&logo=safari&logoColor=white)](https://jaehoonjeong.com/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-ryu9634.github.io-181717?style=flat-square&logo=github&logoColor=white)](http://ryu9634.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-ryu9634-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ryu9634)
+[![Portfolio](https://img.shields.io/badge/GitHub_Pages-ryu9634.github.io-181717?style=flat-square&logo=github&logoColor=white)](http://ryu9634.github.io)
 
 </div>
 
@@ -21,10 +19,10 @@
 > 단순히 기능을 구현하는 것을 넘어, **시스템이 안정적으로 작동하기 위한 구조를 이해하는 개발자**로 성장해왔습니다.  
 > WAS·DB 관리부터 보안 점검, 인프라 운영까지 폭넓은 경험을 보유하고 있습니다.
 
-- 🏢 **현재**: 주식회사 나라원시스템 | 웹사업부 대리 (성동구청 담당)
-- 🎖️ **2024 우수사원** (랜드소프트)
-- 🎓 서울사이버대학교 컴퓨터공학과 졸업 (2026.02)
-- 📍 서울 마포구 거주
+-  **현재**: 주식회사 나라원시스템 | 웹사업부 대리 (성동구청 담당)
+-  **2024 우수사원** (랜드소프트)
+-  서울사이버대학교 컴퓨터공학과 졸업 (2026.02)
+
 
 ---
 
@@ -100,7 +98,7 @@
 
 ## 🚀 Side Projects
 
-### 🎨 지인 포트폴리오 사이트 구축
+### 🎨 포트폴리오 사이트 구축
 > `Spring Boot` `AWS EC2` `Cloudflare`  
 > 서버 설계부터 배포까지 전 과정 직접 수행 → [jaehoonjeong.com](https://jaehoonjeong.com)
 
@@ -118,11 +116,11 @@
 
 | 구분 | 내용 | 기간 |
 |---|---|---|
-| 🎓 학력 | 서울사이버대학교 컴퓨터공학과 졸업 | 2021.03 ~ 2026.02 |
-| 📜 자격증 | 코딩활용능력 1급 (한국정보통신진흥협회) | 2024.10 |
-| 🚗 자격증 | 1종보통운전면허 | 2017.10 |
-| 🪖 병역 | 해병 병장 만기 제대 | 2015.08 ~ 2017.05 |
-| 📚 교육 | AI활용 소프트웨어 개발 및 응용과정 (코리아IT아카데미) | 2021.10 ~ 2022.04 |
+|  학력 | 서울사이버대학교 컴퓨터공학과 졸업 | 2021.03 ~ 2026.02 |
+|  자격증 | 코딩활용능력 1급 (한국정보통신진흥협회) | 2024.10 |
+|  자격증 | 1종보통운전면허 | 2017.10 |
+|  병역 | 해병 병장 만기 제대 | 2015.08 ~ 2017.05 |
+|  교육 | AI활용 소프트웨어 개발 및 응용과정 (코리아IT아카데미) | 2021.10 ~ 2022.04 |
 
 ---
 
@@ -136,5 +134,5 @@
 ---
 
 <div align="center">
-  <sub>🌿 작은 바람은 흘리고, 태풍에도 부러지지 않는 개발자 유승표입니다.</sub>
+  <sub> 흔들리더라도 꺾이지 않고 그 자리에 서 있는 버드나무가 되고 싶은 사람입니다.</sub>
 </div>
