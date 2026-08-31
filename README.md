@@ -98,6 +98,10 @@
 
 ## 🚀 Side Projects
 
+### 🍷 담소 매칭 시스템
+> `Spring Boot 3.3` `Java 21` `React 18` `TypeScript` `JPA`
+> 매장 소개팅 이벤트 운영 도구. MBTI·가치관 기반 자동 자리 배치와 호감도 쌍방 매칭 → [ryu9634/damso](https://github.com/ryu9634/damso)
+
 ### 🎨 포트폴리오 사이트 구축
 > `Spring Boot` `AWS EC2` `Cloudflare`  
 > 서버 설계부터 배포까지 전 과정 직접 수행 → [jaehoonjeong.com](https://jaehoonjeong.com)
