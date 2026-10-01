@@ -11,7 +11,6 @@
 ## About
 
 - **대국민 공공 시스템**을 설계·개발·운영해왔습니다.
-- 기능 구현에서 끝내지 않고 **WAS·DB·검색엔진·보안**까지 서비스 전 구간을 책임집니다.
 
 ## Tech Stack
 
@@ -19,7 +18,7 @@
 |---|---|
 | **Backend** | Java, Spring MVC / Boot / Security, eGovFramework, MyBatis, JPA |
 | **Database** | Tibero, Cubrid, Oracle, MariaDB, PostgreSQL |
-| **Infra** | JEUS, Apache Solr, AWS EC2, Nginx, Cloudflare |
+| **Infra** | JEUS, AWS EC2, Nginx, Cloudflare |
 | **Frontend** | JSP, JavaScript, jQuery, React, TypeScript |
 
 ## Education
